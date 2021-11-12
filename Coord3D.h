@@ -1,6 +1,3 @@
-//
-// Created by luran on 11/5/2021.
-//
 #pragma once
 #ifndef INC_9_COORD3D_H
 #define INC_9_COORD3D_H
@@ -12,4 +9,4 @@ public:
     double z;
 };
 
-#endif //INC_9_COORD3D_H
+#endif
